@@ -8,6 +8,8 @@ public class SquareRoot {
 		System.out.println("Input:" +a); 
 		double b = Math.sqrt(a);
 		System.out.println("Output:"+String.format("%.1f",b));
+		System.out.println((int)(Math.sqrt(a))); 
+		
 			
 
 	}
